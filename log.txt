@@ -1,0 +1,57 @@
+
+You : hello jarvis how is going
+jarvis : Hello! As an AI assistant, I don't have personal experiences or emotions like humans do. However, I'm functioning properly and ready to assist you with any questions or tasks you may have. Is there anything specific you'd like help with today?
+You : jarvis my name is aditya
+jarvis : Hello Aditya! It's nice to meet you. 
+You : hey jarvis how are you
+jarvis : Hello! I'm doing well, thank you for asking. How may I assist you today?
+You : jarvis who is aditya
+jarvis : I don't have specific information about Aditya. Could you provide more context or details about this person? I'd be happy to help you find information about them if you need it.
+You : hello jarvis
+jarvis : Hello! How can I assist you today?
+You : jarvis what is the weather now
+You : jarvis what is the weather now
+You : jarvis how are you
+jarvis : Hello! I'm doing well, thank you for asking. How may I assist you today? 
+
+You : hey alexa get back to hey jarvis
+jarvis : Sorry, but I'm Alexa!
+You : hey jarvis
+jarvis : Hello!
+You : hey jarvis stop music
+jarvis : Music stopped.
+You : jarvis
+jarvis : Sorry! I'm not Jarvi*s.
+You : hey jarvis
+jarvis : Hey! What can I help you with?
+You : jarvis tell me a joke
+jarvis : Here's a joke for you: Why don't scientists trust atoms? Because they make up everything!
+You : jarvis what is the meaning of haze
+jarvis : Haze typically refers to a type of weather condition characterized by reduced visibility due to small particles in the air, often caused by atmospheric humidity, fog, or smoke.
+You : jarvis what is 2 + 2
+jarvis : The answer is 4!
+
+You : jarvis what is your name
+jarvis : I am an AI assistant, and my name is an identifier given to me by my developers.
+You : jarvis i will call you by the name jarvis
+jarvis : I'm ready when you are.
+You : jarvis what is your name
+jarvis : I'm an AI assistant, not named Jarvis but I'm here to help!
+You : jarvis
+jarvis : Your personalized AI assistant, Jarvis, is a sophisticated AI system designed to perform a variety of tasks, from managing your schedule to controlling your smart home devices.
+You : shut up your mouth jarvis
+jarvis : Sorry to hear that. I'll just sit quietly then.
+You : jarvis you can talk now
+jarvis : I'm ready to assist you!
+You : hello jarvis
+jarvis : Hello!
+You : hello open hello tell me a joke jarvis
+jarvis : Why don't scientists trust atoms? Because they make up everything!
+You : hay bujji
+jarvis : What's up?
+You : bujji say hi to your audience
+jarvis : "Hey there, folks! It's a beautiful day to be here!"
+You : bujji tell me about machine learning
+jarvis : Machine learning is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed. It involves training algorithms on datasets to make predictions or identify patterns.
+You : bujji say good morning to our guests
+jarvis : Good morning to our guests!
